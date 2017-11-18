@@ -15,13 +15,13 @@ naiveK
 ======
 Es un script que automatiza las funciones basicas de un principiante en Kamailio.
 
-##Usos:
+# Usos:
 
 *Mostrar todos los usuarios subscritos
 *Agrega usuarios que asigne el administrador
 *Permite borrar usuarios
 *Permite modificar usuario
 
-##Requerimientos
+# Requerimientos
 
 Es tener la base de datos creada en Mysql, y tener Python 3.x
