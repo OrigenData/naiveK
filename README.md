@@ -16,11 +16,10 @@ naiveK
 Es un script que automatiza las funciones basicas de un principiante en Kamailio.
 
 # Usos:
-
-*Mostrar todos los usuarios subscritos
-*Agrega usuarios que asigne el administrador
-*Permite borrar usuarios
-*Permite modificar usuario
+  * Mostrar todos los usuarios subscritos<br>
+  * Agrega usuarios que asigne el administrador<br>
+  * Permite borrar usuarios<br>
+  * Permite modificar usuario<br>
 
 # Requerimientos
 
