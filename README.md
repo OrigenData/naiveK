@@ -10,7 +10,7 @@
                                                
 naiveK
 ======
-control basico de Kamailio<br>
+Control basico de Kamailio<br>
 Es un script que automatiza las funciones basicas de un principiante en Kamailio.
 
 # Usos:
